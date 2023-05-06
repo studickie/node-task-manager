@@ -3,7 +3,6 @@
 CLI task manager app, written with Node.js
 
 ## Installation
----
 
 1. Using your favorite terminal, change to app directory 
 
