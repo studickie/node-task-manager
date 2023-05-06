@@ -1,5 +1,4 @@
 # Node CLI Todo App
----
 
 CLI task manager app, written with Node.js
 
